@@ -42,6 +42,7 @@ public class Tetris : MonoBehaviour
     {
         RangeNextSquart();
     }
+    //程序入口
     void Start()
     {
 
